@@ -1,8 +1,4 @@
 <div align="center">
-<a href="">
-  <img style="border-radius:50px;" alt="Lucas Arifa | Web Developer" width="200px" src="imagens\LucasArifa-icon.jpeg" />
-</a>
-<h3 align="center">Hi there, I'm <a href="https://github.com/LucasArifa">Lucas Arifa</a> 👋</h3>
 
 > A self-taught _**Web Developer**_ from _**Brazil**_.
 
