@@ -24,13 +24,14 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasArifa&layout=compact&theme=gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasArifa&layout=compact&theme=radical" alt="Lucas Arifa's most used languages"/>
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasArifa&show_icons=true&include_all_commits=true&theme=gradient&hide=issues" alt="Lucas Arifa's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasArifa&show_icons=true&include_all_commits=true&theme=radical&hide=issues" alt="Lucas Arifa's github stats" />
 </a>
 
-[![Lucas Arifa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasArifa)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasArifa" alt="Lucas Arifa's wakatime stats" />
+</a>
 </div>
