@@ -4,9 +4,9 @@
 
 </div>
 
-- 🔭 Currently working on my brazilian course [Instituto Proa | PROA 4.0](https://github.com/LucasArifa/PROA4.0)
+- 🔭 Currently working on brazilian course by [Instituto Proa | PROA 4.0](https://github.com/LucasArifa/PROA4.0)
 - 🌱 Learning **PHP** & **MYSQL**.
-- 👯 Looking to make a collaboration, my profile's [Lucas Arifa Profile | Web Developer ](https://github.com/LucasArifa)
+- 👯 Looking forward to colaborate on open source world, my profile's [Lucas Arifa Profile | Web Developer ](https://github.com/LucasArifa)
 - 💬 Ask me about anything [here](https://github.com/LucasArifa/LucasArifa/issues)
 
 > <h4 align="center">Languages and Tools</h4>
