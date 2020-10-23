@@ -6,10 +6,46 @@
 
 - 🔭 Currently working on brazilian course by [Instituto Proa | PROA 4.0](https://github.com/LucasArifa/PROA4.0)
 - 🌱 Learning **PHP** & **MYSQL**.
-- 👯 Looking forward to colaborate on open source world, my profile's [Lucas Arifa Profile | Web Developer ](https://github.com/LucasArifa)
+- 👯 Looking forward to collaborate on open source world, my profile's [Lucas Arifa Profile | Web Developer ](https://github.com/LucasArifa)
 - 💬 Ask me about anything [here](https://github.com/LucasArifa/LucasArifa/issues)
 
-> <h4 align="center">Languages and Tools</h4>
+<div align="center">
+
+> **Features** and **Tools**
+
+</div>
+
+ - **Front-end** 
+<code>**HTML5 , CSS3**</code>
+<code>**Standard JavaScript (Ecmascript)**</code>
+<code>**Bootstrap4**</code>
+<code>**React.js**.</code>
+
+- **Back-end**
+  <code>**PHP**</code>
+</br>
+
+- **Relational Database**
+  - **Relational Data Modeling** 
+  <code> **Peter Chain, UML, Use Case, Sequence Diagrams**, etc... </code>
+  - **MySQL**
+  <code> **ALL FEATURES**</code>
+</br>
+
+ - **Version Control System**
+<code>I'm familiar with **VCS** through **Git** using **GitFlow methodology**.</code>
+</br>
+
+ - **UI / UX**
+<code>Interface design using **Adobe XD**, image processing using tools such as **Adobe ilustrator**, **Photoshop** and **CorelDraw**.</code>
+
+</br>
+
+<div align="center">
+
+> **Languages**
+
+</div>
 
 <div align="center">
 <img src="imagens\html-Css-Html-Js-Php-MySql.png">
