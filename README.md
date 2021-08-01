@@ -18,11 +18,11 @@
  - **Front-end** 
 <code>**HTML5 , CSS3**</code>
 <code>**Standard JavaScript (Ecmascript)**</code>
-<code>**Bootstrap4**</code>
-<code>**React.js**.</code>
+<code>** - (BASICS) - **<code>
+
 
 - **Back-end**
-  <code>**PHP**</code>
+  <code>**CORE JAVA**</code>
 </br>
 
 - **Relational Database**
@@ -48,7 +48,11 @@
 </div>
 
 <div align="center">
-<img src="imagens\html-Css-Html-Js-Php-MySql.png">
+<img src="https://toppng.com/uploads/preview/html5-js-css3-logo-png-11536003913vd86ju9pc1.png">
+</div>
+
+<div align="center">
+<img src="https://omindu.files.wordpress.com/2011/06/java-mysql.jpg">
 </div>
 
 </br>
