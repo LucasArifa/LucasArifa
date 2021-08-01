@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-<img src="https://toppng.com/uploads/preview/html5-js-css3-logo-png-11536003913vd86ju9pc1.png">
+<img src="https://i2.wp.com/ddiehlpdx.github.io/images/html_css_js.png">
 </div>
 
 <div align="center">
