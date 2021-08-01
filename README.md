@@ -42,6 +42,7 @@
 
 </div>
 </br>
+
 <div align="center">
 
 > **Languages**
@@ -56,6 +57,7 @@
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of_ **GitHub** .
 
 </br>
+</div>
 
 <div align="center">
 
