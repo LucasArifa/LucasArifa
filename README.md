@@ -46,11 +46,6 @@
 > **Languages**
 
 </div>
-
-<div align="center">
-<img src="http://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png">
-</div>
-
 <div align="center">
 <img src="https://omindu.files.wordpress.com/2011/06/java-mysql.jpg">
 </div>
