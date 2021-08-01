@@ -18,7 +18,7 @@
   - **Front-end** 
   <code>**HTML5 , CSS3**</code>
   <code>**Standard JavaScript (Ecmascript)**</code>
-  <code>** (BASICS) **<code>
+  <code>** (BASICS) **</code>
 </br>
 
 - **Back-end**
