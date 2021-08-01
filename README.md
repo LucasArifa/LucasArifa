@@ -15,11 +15,12 @@
 
 </div>
 
- - **Front-end** 
-<code>**HTML5 , CSS3**</code>
-<code>**Standard JavaScript (Ecmascript)**</code>
-<code>** (BASICS) **<code>
-
+<div>
+  - **Front-end** 
+  <code>**HTML5 , CSS3**</code>
+  <code>**Standard JavaScript (Ecmascript)**</code>
+  <code>** (BASICS) **<code>
+</br>
 
 - **Back-end**
   <code>**CORE JAVA**</code>
@@ -33,13 +34,15 @@
 </br>
 
  - **Version Control System**
-<code>I'm familiar with **VCS** through **Git** using **GitFlow methodology**.</code>
+   <code>I'm familiar with **VCS** through **Git** using **GitFlow methodology**.</code>
 </br>
 
  - **UI / UX**
 <code>Interface design using **Adobe XD**, image processing using tools such as **Adobe ilustrator**, **Photoshop** and **CorelDraw**.</code>
 
 </br>
+
+</div>
 
 <div align="center">
 
