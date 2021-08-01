@@ -15,7 +15,6 @@
 
 </div>
 
-<div>
   - **Front-end** 
   <code>**HTML5 , CSS3**</code>
   <code>**Standard JavaScript (Ecmascript)**</code>
@@ -40,14 +39,7 @@
  - **UI / UX**
 <code>Interface design using **Adobe XD**, image processing using tools such as **Adobe ilustrator**, **Photoshop** and **CorelDraw**.</code>
 
-</div>
-</br>
 
-<div align="center">
-
-> **Languages**
-
-</div>
 <div align="center">
 <img src="https://omindu.files.wordpress.com/2011/06/java-mysql.jpg">
 </div>
