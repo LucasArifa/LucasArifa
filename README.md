@@ -40,10 +40,8 @@
  - **UI / UX**
 <code>Interface design using **Adobe XD**, image processing using tools such as **Adobe ilustrator**, **Photoshop** and **CorelDraw**.</code>
 
-</br>
-
 </div>
-
+</br>
 <div align="center">
 
 > **Languages**
