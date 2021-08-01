@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-<img src="https://i2.wp.com/ddiehlpdx.github.io/images/html_css_js.png">
+<img src="http://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png">
 </div>
 
 <div align="center">
