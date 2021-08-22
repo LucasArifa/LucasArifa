@@ -5,7 +5,6 @@
 </div>
 
 - 🔭 Currently learning JAVA.
-- 🌱 Learning **PHP** & **MYSQL**.
 - 👯 Looking forward to collaborate on open source world, my profile's [Lucas Arifa Profile | Web Developer ](https://github.com/LucasArifa)
 - 💬 Ask me about anything [here](https://github.com/LucasArifa/LucasArifa/issues)
 
